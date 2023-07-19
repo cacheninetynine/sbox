@@ -14,5 +14,7 @@ To generate an invite key, simply run the project and it will output a INVITE KE
 3. Run `cargo build` to build the project.
 4. Run `cargo run` to generate an invite key.
 5. Test the key
+## API
+`./sboxkeygen.exe` - returns the generated key and useless info
 ## Contributing
 Contributions are NOT welcome! If you have any improvements or bug fixes, SHUT UP. my code is already perfect
