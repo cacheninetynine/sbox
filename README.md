@@ -1,5 +1,6 @@
 # S&Box Invite Key Generator
 THIS PROJECT WILL GENERATE YOU A FREE ASS BOX INVITE KEY!!!! YOU WONT BELIEVE HOW EASY IT IS!!!!!!! 0% chance OF IT WORKING! ERROR GURANTEED!!!!
+THis projects uses advanced ai technology to pick ther best key ever in existance. Its so easy thateven ur mom can do it!
 ## Usage
 To generate an invite key, simply run the project and it will output a INVITE KEY!!!! HELL YEAH!!!!!!!!!!!!!!!!!!!!!!!!!! YOU CA NOW GAMING ASS BOX!!!!!!! This KEY can be used as an invite key to grant access to the S&Box. NOW PLAY IT! AND CRY BECAUSE IT LAGS ON YOUR 1050! AND THEN PLAY AGAIN! AND THEN CRY AGAIN BECAUSE IT LAGS ON YOUR 1050! AND T
 ## Requirements
