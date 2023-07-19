@@ -1,2 +1,17 @@
-# sbox
-S&amp;BOX KEY GEN!!!! (OPEN SORSE)
+# S&Box Invite Key Generator
+THIS PROJECT WILL GENERATE YOU A FREE ASS BOX INVITE KEY!!!! YOU WONT BELIEVE HOW EASY IT IS!!!!!!! 0% chance OF IT WORKING! ERROR GURANTEED!!!!
+## Usage
+To generate an invite key, simply run the project and it will output a INVITE KEY!!!! HELL YEAH!!!!!!!!!!!!!!!!!!!!!!!!!! YOU CA NOW GAMING ASS BOX!!!!!!! This KEY can be used as an invite key to grant access to the S&Box. NOW PLAY IT! AND CRY BECAUSE IT LAGS ON YOUR 1050! AND THEN PLAY AGAIN! AND THEN CRY AGAIN BECAUSE IT LAGS ON YOUR 1050! AND T
+## Requirements
+- Rust programming language
+- Computer (running an operating system)
+- Brain
+- `uuid` crate
+## Installation
+1. Clone this repository.
+2. Make sure you have Rust installed on your system.
+3. Run `cargo build` to build the project.
+4. Run `cargo run` to generate an invite key.
+5. Test the key
+## Contributing
+Contributions are NOT welcome! If you have any improvements or bug fixes, SHUT UP. my code is already perfect
