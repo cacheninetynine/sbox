@@ -1,4 +1,11 @@
 # S&Box Invite Key Generator
+
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+# AWESOME PROJECT
 THIS PROJECT WILL GENERATE YOU A FREE ASS BOX INVITE KEY!!!! YOU WONT BELIEVE HOW EASY IT IS!!!!!!! 0% chance OF IT WORKING! ERROR GURANTEED!!!!
 THis projects uses advanced ai technology to pick ther best key ever in existance. Its so easy thateven ur mom can do it!
 ## Usage
