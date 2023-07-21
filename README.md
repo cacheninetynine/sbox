@@ -5,26 +5,19 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 ## Introduction
 The S&Box Invite Key Generator is an open-source project designed to address the limited availability of S&Box keys. This key generator allows users to generate invite keys, granting access to S&Box. Now you can enjoy the gaming experience of S&Box! Please note that the performance may vary depending on your hardware specifications.
-## Usage
-To generate an invite key, follow these steps:
-1. Clone this repository to your local machine.
-2. Ensure that you have Rust programming language installed.
-3. Run the `cargo build` command to build the project.
-4. Execute the `cargo run` command to generate an invite key.
-5. Test the generated key to verify its functionality.
-
-Alternatively, if you prefer a simpler approach, you can directly download the executable from the latest release. You can find the latest release [here.](https://github.com/cacheninetynine/sbox/releases/latest)
 ## Requirements
-To use the S&Box Invite Key Generator, you need:
+To compile the S&Box Invite Key Generator, you need:
 - Rust programming language installed on your system.
 - A computer running an operating system.
 - A functioning brain.
-## Installation
-To install and run the S&Box Invite Key Generator, follow these steps:
+## Usage/Compilation
+To compile the app, follow these steps:
 1. Clone this repository to your local machine.
 2. Ensure that you have Rust programming language installed.
 3. Run the `cargo build` command to build the project.
-4. Execute the `cargo run` command to generate an invite key.
+4. Execute the `cargo run` command to generate infinite invite keys.
+
+Alternatively, if you prefer a simpler approach, you can directly download the executable from the latest release. You can find the latest release [here.](https://github.com/cacheninetynine/sbox/releases/latest). Run it in the terminal
 ## FAQ
 **Q: I get an error when compiling!!!!**
 
