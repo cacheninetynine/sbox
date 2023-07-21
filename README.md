@@ -23,6 +23,7 @@ To install and run the S&Box Invite Key Generator, follow these steps:
 2. Ensure that you have Rust programming language installed.
 3. Run the `cargo build` command to build the project.
 4. Execute the `cargo run` command to generate an invite key.
+
 Alternatively, if you prefer a simpler approach, you can directly download the executable from the latest release. You can find the latest release [here.](https://github.com/cacheninetynine/sbox/releases/latest)
 ## FAQ
 **Q: I get an error when compiling!!!!**
