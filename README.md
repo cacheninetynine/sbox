@@ -5,6 +5,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 ## Introduction
 The S&Box Invite Key Generator is an open-source project designed to address the limited availability of S&Box keys. This key generator allows users to generate invite keys, granting access to S&Box. Now you can enjoy the gaming experience of S&Box! Please note that the performance may vary depending on your hardware specifications.
+## TOS
+By using this app, you acknowledge and agree to the following terms:
+- We're not responsible for anything that happens to you.
 ## Requirements
 To compile the S&Box Invite Key Generator, you need:
 - Rust programming language installed on your system.
